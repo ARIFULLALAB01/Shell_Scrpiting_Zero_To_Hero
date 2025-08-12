@@ -1,0 +1,325 @@
+{
+    "Vpcs": [
+      {
+        "CidrBlock": "10.58.0.0/16",
+        "DhcpOptionsId": "dopt-635d4c18",
+        "State": "available",
+        "VpcId": "vpc-087aedb21282fe054",
+        "OwnerId": "721834156908",
+        "InstanceTenancy": "default",
+        "CidrBlockAssociationSet": [
+          {
+            "AssociationId": "vpc-cidr-assoc-0c39eb657b0de56bb",
+            "CidrBlock": "10.58.0.0/16",
+            "CidrBlockState": {
+              "State": "associated"
+            }
+          }
+        ],
+        "IsDefault": false,
+        "Tags": [
+          {
+            "Key": "Name",
+            "Value": "AWSB58"
+          }
+        ]
+      },
+      {
+        "CidrBlock": "10.57.0.0/16",
+        "DhcpOptionsId": "dopt-635d4c18",
+        "State": "available",
+        "VpcId": "vpc-08a09547eade84c50",
+        "OwnerId": "721834156908",
+        "InstanceTenancy": "default",
+        "CidrBlockAssociationSet": [
+          {
+            "AssociationId": "vpc-cidr-assoc-00b28916ad70e6f70",
+            "CidrBlock": "10.57.0.0/16",
+            "CidrBlockState": {
+              "State": "associated"
+            }
+          }
+        ],
+        "IsDefault": false,
+        "Tags": [
+          {
+            "Key": "Name",
+            "Value": "AWSB57"
+          }
+        ]
+      },
+      {
+        "CidrBlock": "10.61.0.0/16",
+        "DhcpOptionsId": "dopt-635d4c18",
+        "State": "available",
+        "VpcId": "vpc-07c8b7f4628f46979",
+        "OwnerId": "721834156908",
+        "InstanceTenancy": "default",
+        "CidrBlockAssociationSet": [
+          {
+            "AssociationId": "vpc-cidr-assoc-090d6cca1e87b9760",
+            "CidrBlock": "10.61.0.0/16",
+            "CidrBlockState": {
+              "State": "associated"
+            }
+          }
+        ],
+        "IsDefault": false,
+        "Tags": [
+          {
+            "Key": "Name",
+            "Value": "AWSB61"
+          }
+        ]
+      },
+      {
+        "CidrBlock": "10.1.0.0/16",
+        "DhcpOptionsId": "dopt-5c447525",
+        "State": "available",
+        "VpcId": "vpc-0f289bdbc4725af60",
+        "OwnerId": "053490018989",
+        "InstanceTenancy": "default",
+        "CidrBlockAssociationSet": [
+          {
+            "AssociationId": "vpc-cidr-assoc-0a05329f6b454666f",
+            "CidrBlock": "10.1.0.0/16",
+            "CidrBlockState": {
+              "State": "associated"
+            }
+          }
+        ],
+        "IsDefault": false,
+        "Tags": [
+          {
+            "Key": "Name",
+            "Value": "YELLOW-VPC(MASTERACCONT)"
+          }
+        ]
+      },
+      {
+        "CidrBlock": "10.55.0.0/16",
+        "DhcpOptionsId": "dopt-635d4c18",
+        "State": "available",
+        "VpcId": "vpc-07e5a65bc8d4e3d5e",
+        "OwnerId": "721834156908",
+        "InstanceTenancy": "default",
+        "CidrBlockAssociationSet": [
+          {
+            "AssociationId": "vpc-cidr-assoc-0536ef4d2289106c7",
+            "CidrBlock": "10.55.0.0/16",
+            "CidrBlockState": {
+              "State": "associated"
+            }
+          }
+        ],
+        "IsDefault": false,
+        "Tags": [
+          {
+            "Key": "Name",
+            "Value": "AWSB55"
+          }
+        ]
+      },
+      {
+        "CidrBlock": "10.56.0.0/16",
+        "DhcpOptionsId": "dopt-635d4c18",
+        "State": "available",
+        "VpcId": "vpc-0fa45c10fcf8452c8",
+        "OwnerId": "721834156908",
+        "InstanceTenancy": "default",
+        "CidrBlockAssociationSet": [
+          {
+            "AssociationId": "vpc-cidr-assoc-0679048f26155305f",
+            "CidrBlock": "10.56.0.0/16",
+            "CidrBlockState": {
+              "State": "associated"
+            }
+          }
+        ],
+        "IsDefault": false,
+        "Tags": [
+          {
+            "Key": "Name",
+            "Value": "AWSB56"
+          }
+        ]
+      },
+      {
+        "CidrBlock": "10.60.0.0/16",
+        "DhcpOptionsId": "dopt-635d4c18",
+        "State": "available",
+        "VpcId": "vpc-0135fdc7d510ba85d",
+        "OwnerId": "721834156908",
+        "InstanceTenancy": "default",
+        "CidrBlockAssociationSet": [
+          {
+            "AssociationId": "vpc-cidr-assoc-0b194aeacbc08bcae",
+            "CidrBlock": "10.60.0.0/16",
+            "CidrBlockState": {
+              "State": "associated"
+            }
+          }
+        ],
+        "IsDefault": false,
+        "Tags": [
+          {
+            "Key": "Name",
+            "Value": "AWSB60"
+          }
+        ]
+      },
+      {
+        "CidrBlock": "10.42.0.0/16",
+        "DhcpOptionsId": "dopt-635d4c18",
+        "State": "available",
+        "VpcId": "vpc-0254e05a29026f4e4",
+        "OwnerId": "721834156908",
+        "InstanceTenancy": "default",
+        "CidrBlockAssociationSet": [
+          {
+            "AssociationId": "vpc-cidr-assoc-0a08d4993457e5886",
+            "CidrBlock": "10.42.0.0/16",
+            "CidrBlockState": {
+              "State": "associated"
+            }
+          }
+        ],
+        "IsDefault": false,
+        "Tags": [
+          {
+            "Key": "Name",
+            "Value": "DevSecOpsB42-vpc"
+          }
+        ]
+      },
+      {
+        "CidrBlock": "10.54.0.0/16",
+        "DhcpOptionsId": "dopt-635d4c18",
+        "State": "available",
+        "VpcId": "vpc-0b3ea77aee904bc9d",
+        "OwnerId": "721834156908",
+        "InstanceTenancy": "default",
+        "CidrBlockAssociationSet": [
+          {
+            "AssociationId": "vpc-cidr-assoc-087efc2ab6e434289",
+            "CidrBlock": "10.54.0.0/16",
+            "CidrBlockState": {
+              "State": "associated"
+            }
+          }
+        ],
+        "IsDefault": false,
+        "Tags": [
+          {
+            "Key": "Name",
+            "Value": "AWSB54"
+          }
+        ]
+      },
+      {
+        "CidrBlock": "10.40.0.0/16",
+        "DhcpOptionsId": "dopt-635d4c18",
+        "State": "available",
+        "VpcId": "vpc-0eac6d4d55868caa8",
+        "OwnerId": "721834156908",
+        "InstanceTenancy": "default",
+        "CidrBlockAssociationSet": [
+          {
+            "AssociationId": "vpc-cidr-assoc-0ffacd3dfae8428d0",
+            "CidrBlock": "10.40.0.0/16",
+            "CidrBlockState": {
+              "State": "associated"
+            }
+          }
+        ],
+        "IsDefault": false,
+        "Tags": [
+          {
+            "Key": "Name",
+            "Value": "AWSB28-VPC"
+          },
+          {
+            "Key": "Owner",
+            "Value": "Sreeharsha Veerapalli"
+          },
+          {
+            "Key": "environment",
+            "Value": "Prod"
+          }
+        ]
+      },
+      {
+        "CidrBlock": "10.59.0.0/16",
+        "DhcpOptionsId": "dopt-635d4c18",
+        "State": "available",
+        "VpcId": "vpc-08730097da1b7be2e",
+        "OwnerId": "721834156908",
+        "InstanceTenancy": "default",
+        "CidrBlockAssociationSet": [
+          {
+            "AssociationId": "vpc-cidr-assoc-089264c81be58aba5",
+            "CidrBlock": "10.59.0.0/16",
+            "CidrBlockState": {
+              "State": "associated"
+            }
+          }
+        ],
+        "IsDefault": false,
+        "Tags": [
+          {
+            "Key": "Name",
+            "Value": "AWSB59"
+          }
+        ]
+      },
+      {
+        "CidrBlock": "10.62.0.0/16",
+        "DhcpOptionsId": "dopt-635d4c18",
+        "State": "available",
+        "VpcId": "vpc-08800f5ddc0332140",
+        "OwnerId": "721834156908",
+        "InstanceTenancy": "default",
+        "CidrBlockAssociationSet": [
+          {
+            "AssociationId": "vpc-cidr-assoc-0adffc6b60f430a49",
+            "CidrBlock": "10.62.0.0/16",
+            "CidrBlockState": {
+              "State": "associated"
+            }
+          }
+        ],
+        "IsDefault": false,
+        "Tags": [
+          {
+            "Key": "Name",
+            "Value": "AWSB62-HUB-VPC"
+          }
+        ]
+      },
+      {
+        "CidrBlock": "192.168.0.0/16",
+        "DhcpOptionsId": "dopt-635d4c18",
+        "State": "available",
+        "VpcId": "vpc-0a3bfe75c55021446",
+        "OwnerId": "721834156908",
+        "InstanceTenancy": "default",
+        "CidrBlockAssociationSet": [
+          {
+            "AssociationId": "vpc-cidr-assoc-02752fdb45b8bbd28",
+            "CidrBlock": "192.168.0.0/16",
+            "CidrBlockState": {
+              "State": "associated"
+            }
+          }
+        ],
+        "IsDefault": false,
+        "Tags": [
+          {
+            "Key": "Name",
+            "Value": "ALPHA-VPC-vpc"
+          }
+        ]
+      }
+    ]
+  }
+  
